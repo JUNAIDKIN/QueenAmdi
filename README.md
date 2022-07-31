@@ -58,7 +58,7 @@ You can join Beta Testing WhatsApp Group by invite link :
     <img src="https://img.shields.io/github/license/JUNAIDKIN/QueenAmdi?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/JUNAIDKIN/QueenAmdi">
+  <a href="httsp://github.com/BLACK AMDA/QueenAmdi">
     <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
 
   </a>
